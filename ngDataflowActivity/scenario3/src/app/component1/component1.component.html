@@ -1,0 +1,9 @@
+<p>
+ Enter Text here:
+</p>
+<input #enteredText type="text">
+<button (click)="saveEvent(enteredText.value)">save</button>
+
+
+<app-component2 [parentData]="text">
+</app-component2>

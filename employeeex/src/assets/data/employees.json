@@ -1,0 +1,7 @@
+[
+      {"id":1, "name":"Gargi", "Age": 22, "gender":"female"},
+      {"id":2, "name":"Luxme", "Age": 23, "gender":"female"},
+      {"id":3,"name":"khuchbu", "Age": 24, "gender":"female"},
+      {"id":4,"name":"chubo", "Age": 22, "gender":"male"},
+      {"id":5,"name":"neets", "Age": 23, "gender":"female"}
+    ]

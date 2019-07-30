@@ -1,0 +1,7 @@
+li {
+
+    text-decoration: none;
+    }
+     ul li {
+        display: inline;
+    }

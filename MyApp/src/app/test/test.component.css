@@ -1,0 +1,11 @@
+.successful {
+    color:green;
+}
+
+.failed {
+    color:red;
+}
+
+.italicstyle {
+    font-style: italic;
+}
